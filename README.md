@@ -5,11 +5,36 @@ I am a passionate **Software Engineer** who builds **scalable**, **production-re
 
 Beyond development, I sharpen my **problem-solving** skills through **Competitive Programming** and fuel my curiosity with **Robotics** and **Control Systems**. 
 
-__View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_Resume.pdf).
+__View my resume__ [here](https://github.com/Rahul-009/Rahul-009/blob/main/cv_rahul_ece_ruet.pdf).
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahuldn001/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rahuldn5864@gmail.com)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPTcOyvxTof&query=solvedOverTotal&logo=leetcode&label=SOLVED&color=yellow)
+
+<hr>
+
+## Tech Stack:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) 
+![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-C/C%2B%2B-05122A?style=flat&logo=C/C++&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) 
+![ExpressJS](https://img.shields.io/badge/ExpressJS-353535?logo=express)
+![NextJs](https://img.shields.io/badge/NextJs-353535?logo=next.js)
+![Prisma](https://img.shields.io/badge/Prisma-353535?logo=prisma)
+![Redis](https://img.shields.io/badge/Redis-353535?logo=redis)
+![kafka](https://img.shields.io/badge/Kafka-353535?logo=apache%20kafka)
+![scikit](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=353535) 
+![pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) 
+![numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=353535) 
+![matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535) ![openCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&color=353535)
+![tensoflow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=353535) 
+![pytorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=353535) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI&color=353535)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=353535) 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=353535) 
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&color=353535)
+![ROS](https://img.shields.io/badge/ROS-353535?logo=ros)
 
 <hr>
 
