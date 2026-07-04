@@ -1,53 +1,20 @@
 ## About Me:
+**BSc in Electrical & Computer Engineering** at RUET.  
 
-<div align="center">
-  <table style="width: 100%; max-width: 100%; border: none; border-collapse: collapse;">
-    <tr>
-      <td style="width: 55%; padding: 10px; vertical-align: top; border: none;">
-        <b>BSc in Electrical & Computer Engineering</b> at RUET.<br><br>
-        I am a passionate <b>Software Engineer</b> who builds <b>scalable</b>, <b>production-ready applications</b>. Currently working as a <b>Research Assistant</b>, exploring the intersection of <b>software</b> and <b>intelligent systems</b>. Previously, I served as a <b>Web Developer</b> for several university clubs, delivering <b>real-world digital solutions</b> for student communities.<br><br>
-        Beyond development, I sharpen my <b>problem-solving</b> skills through <b>Competitive Programming</b> and fuel my curiosity with <b>Robotics</b> and <b>Control Systems</b>.<br><br>
-        <b>View my resume</b> <a href="https://github.com/Rahul-009/Rahul-009/blob/main/cv_rahul_ece_ruet.pdf">here</a>.<br><br>
-        <a href="https://www.linkedin.com/in/rahuldn001/">
-          <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
-        </a>
-        <a href="mailto:rahuldn5864@gmail.com">
-          <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
-        </a>
-        <a href="https://leetcode.com/u/PTcOyvxTof/">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPTcOyvxTof&query=solvedOverTotal&logo=leetcode&label=SOLVED&color=yellow" />
-        </a>
-        <a href="https://codeforces.com/profile/Cloudlad">
-        <img src="https://img.shields.io/badge/solved-211-blue?logo=codeforces" />
-        </a>
-      </td>
-      <td style="width: 45%; padding: 5px; vertical-align: middle; text-align: center; border: none;">
-        <img src="./mario_gif.gif" style="width: 100%; max-width: 500px; height: auto; border-radius: 10px;" alt="Coding GIF" />
-      </td>
-    </tr>
-  </table>
-</div>
+I am a passionate **Software Engineer** who builds **scalable**, **production-ready applications**. Currently working as a **Research Assistant**, exploring the intersection of **software** and **intelligent systems**. Previously, I served as a **Web Developer** for several university clubs, delivering **real-world digital solutions** for student communities.  
 
-<!-- Mobile responsive fallback: GIF appears below text on small screens -->
-<style>
-  @media screen and (max-width: 1024px) {
-    table, tbody, tr, td {
-      display: block !important;
-      width: 100% !important;
-      text-align: left !important;
-    }
-    td {
-      padding: 5px 0 !important;
-    }
-    td:last-child {
-      text-align: center !important;
-      margin-top: 10px;
-    }
-    img[style*="max-width: 300px"] {
-      max-width: 80% !important;
-    }
-  }
-</style>
+Beyond development, I sharpen my **problem-solving** skills through **Competitive Programming** and fuel my curiosity with **Robotics** and **Control Systems**. 
+
+__View my resume__ [here](https://github.com/Rahul-009/Rahul-009/blob/main/cv_rahul_ece_ruet.pdf).
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahuldn001/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rahuldn5864@gmail.com)
+[![Leetcode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPTcOyvxTof&query=solvedOverTotal&logo=leetcode&label=SOLVED&color=yellow)](https://leetcode.com/u/PTcOyvxTof/)
+[![Codeforces Solved](https://img.shields.io/badge/SOLVED-211-blue?logo=codeforces)](https://codeforces.com/profile/Cloudlad)
+
+<p align="center">
+  <img src="./mario_gif.gif" alt="Coding GIF" width="600"/>
+</p>
 
 <hr>
 
