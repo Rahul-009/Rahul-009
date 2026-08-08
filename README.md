@@ -1,7 +1,7 @@
 ## About Me:
 **BSc in Electrical & Computer Engineering** at RUET.  
 
-I am a passionate **Software Engineer** who builds **scalable**, **production-ready applications**. Currently working as a **Research Assistant**, exploring the intersection of **software** and **intelligent systems**. Previously, I served as a **Web Developer** for several university clubs, delivering **real-world digital solutions** for student communities.  
+Passionate **Software Engineer** focused on building **scalable, production-ready applications** and exploring the intersection of **software engineering and intelligent systems**. Previously served as a **Web Developer** for university organizations, delivering practical digital solutions that supported student communities.
 
 Beyond development, I sharpen my **problem-solving** skills through **Competitive Programming** and fuel my curiosity with **Robotics** and **Control Systems**. 
 
@@ -21,8 +21,8 @@ __View my resume__ [here](https://github.com/Rahul-009/Rahul-009/blob/main/cv_ra
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) 
 ![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-C/C%2B%2B-05122A?style=flat&logo=C/C++&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) 
+![C](https://img.shields.io/badge/-C/C%2B%2B-05122A?style=flat&logo=C/C++&color=353535) 
+![Ract](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) 
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-353535?logo=express)
 ![NextJs](https://img.shields.io/badge/NextJs-353535?logo=next.js)
 ![Prisma](https://img.shields.io/badge/Prisma-353535?logo=prisma)
@@ -44,29 +44,22 @@ __View my resume__ [here](https://github.com/Rahul-009/Rahul-009/blob/main/cv_ra
 <hr>
 
 ## Experience:
-- Undergraduate Research Assistant @Qatar University Machine Learning Lab, Remote.
-- Active participant in ML and Data Science competitions on Kaggle and solved 250+ problems on LeetCode and Codeforces.
-- Communication Team Lead @Team Ogrodoot. Team Ogrodoot has participated in ARC'2026.
+- Solved 250+ problems on LeetCode and Codeforces.
+- Communication Team Lead @Team Ogrodoot. A university Mars Rover team that participated in several international competitions.
 - Software and Autonomous System Team Member @BengalSub. Team BengalSub has participated in 28th RoboSub competition held in Irvine, California, USA.
-- Webmaster @IEEE Student Branch, RUET, Rajshahi, Bangladesh
+- Webmaster @IEEE Student Branch, RUET, Rajshahi, Bangladesh.
 <hr>
 
 ## Achievements:
 
 | Competition | Placement | Organizer | Solution / Certification |
 |------------|-----------|-----------|---------------------------|
-| [Anatolian Rover Challenge 2026](https://www.anatolianrover.space/) | 13th/100+ (Worldwide) | UKET – Middle East Technical University, Ankara | |
+| [Anatolian Rover Challenge 2026](https://www.anatolianrover.space/) | 13th/100+ SAR (Worldwide) | UKET – Middle East Technical University, Ankara | |
 | [5th KIBO Robot Programming Challenge 2024](http://humans-in-space.jaxa.jp/en/biz-lab/kuoa/kibo-rpc/) | Top 5% (7/135) | JAXA | 
-| [Mars Rover Rally'25](https://ig.utexas.edu/texas-space-grant/2025/space-teams-university-mars-autonomous-rover-rally-design-challenge/) | 6/100+ (Worldwide) | NASA Texas Space Grant Consortium |
 | [Mars Rover Rally'25](https://ig.utexas.edu/texas-space-grant/2025/space-teams-university-mars-autonomous-rover-rally-design-challenge/) | 6/100+ (Worldwide) | NASA Texas Space Grant Consortium |
 | [CodeSpark 2022](https://www.facebook.com/events/5816722358392296) | 1/56 | Dept of ECE, RUET |
 
 
 <hr>
 
-## Research and Publications:
-1. __Deep Learning Based Smart Bin for Efficient Sorting of Recyclable, Non-Recyclable, and Compostable Materials__ (https://doi.org/10.1109/ICCIT64611.2024.11022177)
-    * Process Safety and Environmental Protection
-3. __ROS2-Based Autonomous Wheelchair with Adaptive Navigation and LLM-Driven Conversational Control__ (https://doi.org/10.1109/ICCIT68739.2025.11490350)
 
-<hr>
